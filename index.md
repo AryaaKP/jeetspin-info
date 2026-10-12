@@ -1,9 +1,14 @@
 # Jeet Spin Official Repository | jeetspin.info
 
+[![Live Website / GitHub Pages](https://img.shields.io/badge/Live%20Website-GitHub%20Pages-2ea44f?style=for-the-badge&logo=github)](https://AryaaKP.github.io/jeetspin-info/)
 [![Official Website](https://img.shields.io/badge/Official%20Site-jeetspin.info-brightgreen?style=for-the-badge)](https://jeetspin.info)
 [![Direct Referral](https://img.shields.io/badge/Direct%20Download-Claim%20₹500%20Welcome%20Bonus-gold?style=for-the-badge)](https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Join%20VIP-blue?style=for-the-badge)](https://t.me/winrealcash500)
 [![License](https://img.shields.io/badge/Fair%20Play-100%25%20Verified%20RNG-blueviolet?style=for-the-badge)](https://jeetspin.info)
+
+> 🌐 **Live Website / GitHub Pages:** [https://AryaaKP.github.io/jeetspin-info/](https://AryaaKP.github.io/jeetspin-info/)
+> 
+> 🔗 **Official Domain Mirror:** [https://jeetspin.info](https://jeetspin.info) | ⬇ **Direct APK Referral:** [₹500 Welcome Bonus](https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054)
 
 Welcome to the definitive, fully humanized documentation and web repository for **Jeet Spin** ([https://jeetspin.info](https://jeetspin.info)). This documentation serves as a comprehensive reference guide for users, players, developers, and community managers seeking verified APK download links, mathematical fairness disclosures, problem-solving walkthroughs, and organic search term optimization.
 
@@ -60,6 +65,7 @@ To dominate organic Google, Bing, and YouTube searches, this repository directly
 | :--- | :--- |
 | **Application Title** | Jeet Spin (Official Release 2026) |
 | **Canonical Domain** | [`https://jeetspin.info`](https://jeetspin.info) |
+| **Live Website (GitHub Pages)** | [`https://AryaaKP.github.io/jeetspin-info/`](https://AryaaKP.github.io/jeetspin-info/) |
 | **Theme / Aesthetic** | Forest Emerald Green (Hex: `#059669` / `#0B1912`) |
 | **Active Referral CTA Link** | [`https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054`](https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054) |
 | **Official VIP Telegram** | [`https://t.me/winrealcash500`](https://t.me/winrealcash500) |
@@ -196,5 +202,6 @@ Aviator ek cryptographic crash game hai jisme multiplier har round me randomly c
 This game involves an element of financial risk and may be habit-forming. Please play responsibly and within your financial limits. Participation is strictly restricted to persons aged 18 years and above. Not applicable in territories where local legislation restricts online skill-based cash competitions (such as Andhra Pradesh, Telangana, Assam, Odisha, and Nagaland).
 
 - **Official Web Domain:** [https://jeetspin.info](https://jeetspin.info)
+- **Live Website (GitHub Pages):** [https://AryaaKP.github.io/jeetspin-info/](https://AryaaKP.github.io/jeetspin-info/)
 - **Direct Referral Installation:** [https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054](https://www.jeetspin16.com/?code=SYHXTG5NAHW&t=1791312054)
 - **Community VIP Telegram:** [https://t.me/winrealcash500](https://t.me/winrealcash500)
