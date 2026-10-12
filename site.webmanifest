@@ -1,0 +1,23 @@
+{
+  "name": "Jeet Spin Official App",
+  "short_name": "Jeet Spin",
+  "description": "India's Certified High-RTP Spin Wheel, Live Roulette & Slots Portal",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B1912",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
