@@ -22,3 +22,31 @@ Official repository and landing hub for Jeet Spin, India's certified real-cash o
 - "Jeet Spin download kaise kare": Step-by-step Android unknown sources setup.
 - "Jeet Spin login problem solution": SMS OTP delay and Voice Call OTP recovery.
 - "Jeet Spin withdrawal problem solve": 60-second automated UPI IMPS guide.
+
+## Multilingual Language Editions (25 Languages)
+This platform provides complete localized pages with 100% native translations:
+- [हिन्दी (Hindi)](https://jeetspin.info/hi.html): Official Hindi edition.
+- [বাংলা (Bengali)](https://jeetspin.info/bn.html): Official Bengali edition.
+- [తెలుగు (Telugu)](https://jeetspin.info/te.html): Official Telugu edition.
+- [मराठी (Marathi)](https://jeetspin.info/mr.html): Official Marathi edition.
+- [தமிழ் (Tamil)](https://jeetspin.info/ta.html): Official Tamil edition.
+- [اردو (Urdu)](https://jeetspin.info/ur.html): Official Urdu edition.
+- [ગુજરાતી (Gujarati)](https://jeetspin.info/gu.html): Official Gujarati edition.
+- [ಕನ್ನಡ (Kannada)](https://jeetspin.info/kn.html): Official Kannada edition.
+- [മലയാളം (Malayalam)](https://jeetspin.info/ml.html): Official Malayalam edition.
+- [ଓଡ଼ିଆ (Odia)](https://jeetspin.info/or.html): Official Odia edition.
+- [ਪੰਜਾਬੀ (Punjabi)](https://jeetspin.info/pa.html): Official Punjabi edition.
+- [অসমীয়া (Assamese)](https://jeetspin.info/as.html): Official Assamese edition.
+- [मैथिली (Maithili)](https://jeetspin.info/mai.html): Official Maithili edition.
+- [संस्कृतम् (Sanskrit)](https://jeetspin.info/sa.html): Official Sanskrit edition.
+- [भोजपुरी (Bhojpuri)](https://jeetspin.info/bho.html): Official Bhojpuri edition.
+- [Español (Spanish)](https://jeetspin.info/es.html): Official Spanish edition.
+- [Français (French)](https://jeetspin.info/fr.html): Official French edition.
+- [Deutsch (German)](https://jeetspin.info/de.html): Official German edition.
+- [Português (Portuguese)](https://jeetspin.info/pt.html): Official Portuguese edition.
+- [Русский (Russian)](https://jeetspin.info/ru.html): Official Russian edition.
+- [العربية (Arabic)](https://jeetspin.info/ar.html): Official Arabic edition.
+- [Bahasa Indonesia (Indonesian)](https://jeetspin.info/id.html): Official Indonesian edition.
+- [日本語 (Japanese)](https://jeetspin.info/ja.html): Official Japanese edition.
+- [Tiếng Việt (Vietnamese)](https://jeetspin.info/vi.html): Official Vietnamese edition.
+- [Türkçe (Turkish)](https://jeetspin.info/tr.html): Official Turkish edition.
